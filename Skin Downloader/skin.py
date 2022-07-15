@@ -39,7 +39,6 @@ if part == "body":
     if bruh.lower() == "no":
         sussy = False
 
-# bruh this is gonna take forever please save my soul. S.M.S. save my soul. i wish i could write code really fast.
 if part == "body" and sussy == True:
     target = "armor/body"
 if part == "body" and sussy == False:
